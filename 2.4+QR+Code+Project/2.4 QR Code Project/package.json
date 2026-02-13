@@ -1,0 +1,17 @@
+{
+  "name": "2.4-qr-code-project",
+  "version": "1.0.0",
+  "description": "A simple project to generate QR Codes from user input",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "types": "module",
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "qr-image": "^3.2.0"
+  },
+  "author": "Mohamed Osama",
+  "license": "MIT"
+}
